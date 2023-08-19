@@ -40,6 +40,8 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Project Detail
+
+
     In this project I used react Js as you already know and styling with tailwind CSS and I forgot mainsion 
 React Route also used and little bit spiciness of typeScript.
 In contact you can create contact, see all contact details, deleting the contacts and sorry for edit It not working because of time issue. In two days I need to learn tailwind and redux. But redux I am able to implement.
