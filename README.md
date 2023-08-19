@@ -41,10 +41,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Project Detail
 
-
-    In this project I used react Js as you already know and styling with tailwind CSS and I forgot mainsion 
-React Route also used and little bit spiciness of typeScript.
-In contact you can create contact, see all contact details, deleting the contacts and sorry for edit It not working because of time issue. In two days I need to learn tailwind and redux. But redux I am able to implement.
-    Moving to the main topic In Map component with the help of react-leaflet that page indicates the country 
-name, total number of active, recovered cases and deaths in that particular country as a popup.
+In this project I used react Js as you already know and styling with tailwind CSS and I forgot mansion 
+React Route also used and a little bit of spiciness of typeScript.
+In contact, you can create a contact, see all contact details, delete the contacts and sorry for the edit button It not working because of a time issue. In two days I need to learn tailwind and redux. But redux I am not able to implement it.
+    Moving to the main topic In the Map component with the help of react-leaflet that page indicates the country 
+name, the total number of active, recovered cases and deaths in that particular country as a popup.
     LineGraph page line graph showing the cases fluctuations of historical from disease starting date to till now.
